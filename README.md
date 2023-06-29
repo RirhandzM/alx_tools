@@ -1,1 +1,1 @@
-Just joined SWE program
+My first readme.
